@@ -1,0 +1,17 @@
+export 'idioma.dart';
+export 'IdiomasComuns/anao.dart';
+export 'IdiomasComuns/comum.dart';
+export 'IdiomasComuns/elfico.dart';
+export 'IdiomasComuns/gigante.dart';
+export 'IdiomasComuns/gnomico.dart';
+export 'IdiomasComuns/goblin.dart';
+export 'IdiomasComuns/halfling.dart';
+export 'IdiomasComuns/orc.dart';
+export 'IdiomasExoticos/abissal.dart';
+export 'IdiomasExoticos/celestial.dart';
+export 'IdiomasExoticos/dialetoSubterraneo.dart';
+export 'IdiomasExoticos/draconico.dart';
+export 'IdiomasExoticos/infernal.dart';
+export 'IdiomasExoticos/primordial.dart';
+export 'IdiomasExoticos/silvestre.dart';
+export 'IdiomasExoticos/subcomum.dart';
